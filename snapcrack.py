@@ -97,4 +97,3 @@ if __name__ == '__main__':
 print(" [ ✓ | PASSWORD FOUND ] Thank you for being a user of SnapCrack!\n\n" +
 	" [ ! | TAKE NOTE OF THE SUCCESSFUL ATTEMPT ] NO CURRENT LOGGING TO FILE !" + 
 	"    Press any key to exit!")
-$ python3 snapcrack.py < therealbeaner98 > < /path/to/file.xyz > < # Threads >
